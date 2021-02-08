@@ -1,0 +1,29 @@
+_repo: Oszi-napsugar-A-gyanu_64382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ambrus, Zoltán
+    alias: Ambrus, Zoltan
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '34456'
+    url: http://www.gutenberg.org/2009/agents/34456
+    wikipedia: http://hu.wikipedia.org/wiki/Ambrus_Zolt%C3%A1n_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2021-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64382'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 20th century'
+- GITenberg
+tableOfContents: Őszi napsugár -- A gyanu -- Király-idillek -- A nimfák és szatirok
+  -- Vasárnap.
+title: Őszi napsugár; A gyanu
+url: http://www.gutenberg.org/ebooks/64382
